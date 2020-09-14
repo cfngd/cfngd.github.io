@@ -1,0 +1,202 @@
+
+/*站内搜索*/
+.znss-box{float:right;padding-right:20px;}
+.znss-box span{float:left;padding:0px 5px 0px 5px;height:39px;line-height:33px;color:#676767;}
+.znss-box input{float:left;margin-top:7px;}
+.znss-box .t-ss{height:22px;line-height:22px;border:1px #A4A4A4 solid;}
+
+
+/*焦点新闻*/
+.jdxw{margin-top:10px;}
+
+
+
+/*头条新闻*/
+#nav_content_118 .article li{height:45px;border-bottom:1px #A9AEB1 dotted;}
+#nav_content_118 .article li .title{display:block;height:20px;line-height:20px;}
+#nav_content_118 .article li .title a:hover{color:#666;}
+
+
+
+
+/*首页*/
+/*图片报道*/
+.tpbd-box{clear:both;overflow:hidden;background:#E9ECEF;padding:10px;_height:100%;}
+.tpbd-box .tpbd-l{float:left;width:288px;height:195px;overflow:hidden;}
+.tpbd-box .tpbd-l img{display:block;}
+.tpbd-box .tpbd-l span{display:block;text-align:left;text-indent:2em;color:#666;}
+.tpbd-box .tpbd-r{float:right;width:662px;}
+
+
+
+/*国外议会*/
+.gwyh-box{clear:both;overflow:hidden;background:#E9ECEF;border-top:2px #F46D00 solid;padding:0px 0px 15px 10px;_height:100%;}
+.gwyh-box .gwyh-l{float:left;width:87px;height:36px;background:url(../images/tit_bg_icon.gif) no-repeat left center;margin:10px 0px 0px 7px;}
+.gwyh-box .gwyh-l span{display:block;padding-left:20px;white-space:nowrap;height:18px;line-height:18px;font-weight:bold;}
+.gwyh-box a{float:left;width:87px;height:36px;margin:10px 0px 0px 7px;}
+.gwyh-box a img{display:block;}
+
+
+
+/*人大文艺*/
+.rdwy-box{border-top:2px #F46D00 solid;padding:10px 0px 15px 0px;background:#E9ECEF;overflow:hidden;}
+.rdwy-box a{display:block;margin:7px auto 0px auto;width:177px;height:45px;overflow:hidden;}
+.rdwy-box a img{display:block;}
+
+
+
+/*基层人大 人事任免*/
+.h-dbgz1{clear:both;width:433px;background:url(../images/title_bg.gif)  repeat-x;height:33px;border:1px #CCC solid;}
+.h-dbgz1 .jcrd-l{float:left;text-align:left;height:34px;_width:350px;}
+.h-dbgz1 .jcrd-l .tab5{height:34px; overflow:!important;}
+.h-dbgz1 .jcrd-l .tab5 dd{border:1px #CCC solid;border-width:0px 1px 0px 0px;cursor:pointer;height:33px;width:auto;padding:0px 7px 0px 7px;}
+.h-dbgz1 .jcrd-l .tab5 dd a{height:31px;line-height:31px;font-weight:bold;}
+.h-dbgz1 .jcrd-l .tab5 dd a:hover{color:#666;text-decoration:none;}
+.h-dbgz1 .jcrd-l .tab5 dd.current{border:1px #CCC solid;border-width:0px 1px 0px 0px;background:#F9F9F9;height:34px;}
+.h-dbgz1 .jcrd-r{float:right;height:33px;line-height:33px;text-align:right;padding:0px 13px 0px 0px;background:url(../images/icon_r.png) no-repeat right top;width:auto;_width:60px;}
+
+.tabcon5{border:1px #CCC solid;border-width:0px 1px 1px 1px;padding:10px 20px 10px 20px;background:white;height:170px;overflow:hidden;}
+.tabcon5 .dbgz-l{float:left;width:250px;}
+.tabcon5 .dbgz-r{float:right;width:445px;}
+.tabcon5 dd .lf-more{display:block;text-align:right;}
+.tabcon5 .article li{height:25px;padding:0px;}
+.tabcon5 .article li .title{height:25px;line-height:25px;}
+
+
+
+
+
+/*人大资料室*/
+.h-rdzls{clear:both;overflow:hidden;background:url(../images/t_bg.gif)  repeat-x;border:#CCC 1px solid;border-width:1px 1px 0px 1px;_width:308px;}
+.h-rdzls .rdzls-l{float:left;font-size:14px;color:#C00;font-weight:bold;width:90px;height:34px;line-height:34px;text-align:center;}
+.h-rdzls .rdzls-r{float:left;}
+.h-rdzls .rdzls-r .tab4{height:34px;}
+.h-rdzls .rdzls-r .tab4 dd{width:70px;height:25px;line-height:25px;background:#D8D8D8;margin:4px 2px 0px 0px;cursor:pointer;}
+.h-rdzls .rdzls-r .tab4 dd a{color:#333;text-decoration:none;}
+.h-rdzls .rdzls-r .tab4 dd.current{background:url(../images/t_bg_cur.png) no-repeat left center;}
+.h-rdzls .rdzls-r .tab4 dd.current a{color:#C00;text-decoration:none;}
+
+.tabcon4 dd{background:#EBEEF2;padding:0px 20px 7px 20px;}
+.tabcon4 dd .lf-more{display:block;text-align:right;}
+.tabcon4 dd .article li{height:24px;padding:0px;}
+.tabcon4 dd .article li .title{height:24px;line-height:24px;}
+.tabcon4 dd .article li .title a{color:#333;}
+
+
+
+
+/*热点专题*/
+.rdzt-box{background:#E9ECEF;height:100%;}
+.rdzt-box .rdzt-img a{display:block;width:200px;height:45px;padding:7px 5px 0px 5px;}
+.rdzt-box .rdzt-img a img{display:block;}
+.rdzt-box .rdzt-w{padding:0px 10px 3px 10px;_height:100%;_padding:6px 10px 6px 10px;*padding:6px 10px 6px 10px;}
+.rdzt-box .rdzt-w .article li{width:99%;height:24px;padding:0px;}
+.rdzt-box .rdzt-w .article li .title{background:url(../images/li_icon02.gif) no-repeat left center;height:24px;}
+.rdzt-box .rdzt-w .article li .title a{display:block;height:24px;line-height:24px;}
+
+
+/*常委会公报*/
+.cwhgb-box{border-top:2px #F46D00 solid;padding:10px 0px 10px 0px;background:#E9ECEF;overflow:hidden;}
+.cwhgb-box a{display:block;margin:5px auto 0px auto;width:188px;height:37px;}
+.cwhgb-box a img{display:block;}
+
+
+
+/*代表工作*/
+.h-dbgz{clear:both;border:1px #CCC solid;background:url(../images/title_bg.gif)  repeat-x;height:33px;}
+.h-dbgz .dbgz-l{float:left;text-align:left;height:34px;_width:630px;}
+.h-dbgz .dbgz-l .tab3{height:34px;}
+.h-dbgz .dbgz-l .tab3 dd{border:1px #CCC solid;border-width:0px 1px 0px 0px;width:auto;padding:0px 7px 0px 7px;cursor:pointer;height:33px;}
+.h-dbgz .dbgz-l .tab3 dd a{height:33px;line-height:33px;font-weight:bold;}
+.h-dbgz .dbgz-l .tab3 dd a:hover{color:#666;text-decoration:none;}
+.h-dbgz .dbgz-l .tab3 dd.current{background:#F9F9F9;height:34px;}
+.h-dbgz .dbgz-title-r{float:right;height:33px;line-height:33px;border-bottom:1px #CCC solid;text-align:right;padding:0px 13px 0px 0px;background:url(../images/icon_r.png) no-repeat right top;_width:90px;}
+
+.tabcon3{border:1px #CCC solid;border-width:0px 1px 1px 1px;padding:10px 20px 10px 20px;background:white;height:200px;overflow:hidden;}
+.tabcon3 .dbgz-l{float:left;width:250px;}
+.tabcon3 .dbgz-r{float:right;width:445px;}
+.tabcon3 dd .lf-more{display:block;text-align:right;}
+.tabcon3 .article li{height:26px;padding:0px;}
+.tabcon3 .article li .title{height:26px;line-height:26px;}
+
+
+/*会议专题*/
+.hyzt-box{margin-top:65px;}
+.hyzt-box a{display:block;width:148px;height:44px;line-height:44px;text-align:left;font-size:16px;padding-left:40px;text-decoration:none;margin-top:5px;}
+.hyzt-box a:hover{text-decoration:none;}
+.hyzt-box .hyzt-1{background:url(../images/bg01.gif) no-repeat left center;color:#579D62;}
+.hyzt-box .hyzt-2{background:url(../images/bg02.gif) no-repeat left center;color:#F46D00;}
+.hyzt-box .hyzt-3{background:url(../images/bg03.gif) no-repeat left center;color:#04A1E2;}
+
+
+
+/*立法工作 监督工作*/
+.h-lfgz{clear:both;overflow:hidden; border:#CCC 1px solid;border-bottom:0px;height:41px;background:url(../images/title_bg.gif)  repeat-x;}
+.h-lfgz .lfgz-title-l{float:left;width:75px;line-height:35px;text-align:center;border-right:1px #CCC solid;font-size:13px;color:#C00;font-weight:bold;}
+.h-lfgz .lfgz-r{float:right;width:292px;overflow:hidden;}
+
+.tab2{background:url(../images/icon_r.png) no-repeat right top;height:41px;}
+.tab2 dd{text-align:center;height:35px;line-height:35px;width:73px;border:1px solid #CCC;border-width:0px 0px 1px 0px;}
+.tab2 dd a{display:block;height:35px;font-size:12px;color:#333;cursor:pointer;text-decoration:none;border:1px solid #CCC;border-width:0px 0px 1px 0px;}
+.tab2 dd.current{background:url(../images/tab_cur.png) no-repeat bottom center;height:41px;border:1px solid #CCC;border-width:0px 0px 1px 0px;}
+.tab2 dd.current a{height:35px;color:#C00;text-decoration:none;}
+.tabcon2 dd{height:205px;width:348px;padding:0px 10px 0px 10px;overflow:hidden;border:1px solid #CCC;border-width:0px 1px 1px 1px;}
+.tabcon2 dd .lf-more{display:block;height:30px;line-height:30px;text-align:right;}
+.tabcon2 dd .lf-more a{font-size:12px;}
+.tabcon2 dd .article .title a{font-size:14px;_font-size:13px;}
+
+
+
+
+/*人民机构*/
+.tab1{background:url(../images/gov_bg.gif) no-repeat left top;height:41px;}
+.tab1 dd{text-align:center;height:34px;line-height:34px;}
+.tab1 dd a{font-size:12px;font-weight:bold;color:#333;cursor:pointer;text-decoration:none;}
+.tab1 dd.current{background:url(../images/gov_arrow.png) no-repeat bottom center;height:41px;}
+.tab1 dd.current a{display:block;background:#C00;height:34px;color:white;text-decoration:none;}
+.tabcon1 dd{height:222px;width:243px;padding:0px 0px 0px 5px;overflow:scroll;overflow-x:hidden;_height:230px;*height:230px;}
+.tabcon1 dd .article li{height:35px;}
+.tabcon1 dd .title{display:block;background:url(../images/rmjg.jpg) no-repeat left center;width:202px;height:34px;line-height:34px;padding-left:40px;}
+.tabcon1 dd .title a{color:#A1560C;}
+.tabcon1 dd .title:hover{color:#333;background:url(../images/rmjg1.jpg) no-repeat left center;text-decoration:none;}
+.tabcon1 dd .title:hover a{color:#333;}
+
+
+/*领导活动 会议报道*/
+#module_content_182 .hh_article{padding-bottom:8px;}
+#module_content_182 .hh_article .tw img{width:100px;height:65px;display:block;}
+#module_content_182 .hh_article .normal{padding:0px;height:24px;line-height:24px;}
+#module_content_182 .hh_article .normal .title{background:url(../images/li_icon.gif) no-repeat left 9px;}
+
+#module_content_183 .hh_article{padding-bottom:8px;}
+#module_content_183 .hh_article .tw img{width:100px;height:65px;display:block;}
+#module_content_183 .hh_article .normal{padding:0px;height:24px;line-height:24px;}
+#module_content_183 .hh_article .normal .title{background:url(../images/li_icon.gif) no-repeat left 9px;}
+
+
+/*图片新闻*/
+#module_content_181 table tr td img{width:130px;height:85px;margin-top:10px;}
+
+
+/*综合要闻*/
+#module_content_180 .article li{}
+#module_content_180 .article li .title{background:url(../images/li_icon.gif) no-repeat left 8px;}
+
+
+
+/*通知公告*/
+#module_178 .article li{height:43px;border-bottom:1px #dddddd solid;}
+#module_178 .article li .title{background:url(../images/notice_icon.gif) no-repeat 0px 6px;padding:0px 0px 0px 13px;}
+#module_178 .article li .title a{display:block;line-height:20px;color:#666;}
+#module_178 .article li .title a:hover{color:#F58021;}
+#module_178 .article li .date{float:left;display:none;}
+
+
+/*新闻头条*/
+.h-ttxw{clear:both;float:left;background:url(../images/top_news_bg.gif) no-repeat left center;height:99px;width:715px;overflow:hidden;}
+.h-ttxw img{float:left;width:71px;height:64px;margin:22px 20px 0px 20px;}
+.h-ttxw .ttxw-r{float:left;width:580px;}
+.h-ttxw .ttxw-r .ttxw-r-ckxq{ border:#000 1px solid;}
+.h-ttxw .ttxw-r .hh_article .tw{margin-top:5px;}
+.h-ttxw .ttxw-r .hh_article .tw .title a{display:block;text-align:center;font-size:26px;font-weight:bold;text-decoration:none;height:38px;line-height:38px;}
+.h-ttxw .ttxw-r .hh_article .tw p{text-indent:2em;}

@@ -1,0 +1,70 @@
+﻿/*文章样式*/
+.newsad{text-align:left;height:30px;overflow:scroll;}
+.newsad ul li{height:25px;line-height:25px;padding:5px 0 0 30px;background:url(../images/newsico.gif) no-repeat 10px center;}
+.newsad ul li .date{color:#666666;}
+
+.article{overflow:hidden;}
+.article li{clear:both;height:24px;line-height:24px;text-align:left;overflow:hidden;_float:left;width:100%;*float:left;*width:100%;}
+.article .title{float:left;text-align:left;padding:0 0 0 10px;background:url(../images/li_icon01.gif) no-repeat left center;}
+.article .date{float:right;color:#666666;padding-right:2px}
+.article table td{text-align:center}
+.article table td img{border:1px solid #ececec;margin:5px 5px 5px 5px;}
+
+.nav_box .article li{height:auto;border-width:0px}
+.nav_box .article .title{float:none;}
+.nav_box .article .date{float:none;}
+.nav_box .phb{background:url(../images/no.gif) no-repeat 0 11px}
+.nav_box .phb li{height:20px;padding:6px 0 2px 5px;overflow:hidden}
+.nav_box .phb li .title{background-image:none}
+
+.sublanmu_box .article li{height:25px;border:0px dotted #dddddd;border-width:0 0 1px 0}
+
+.tw_article{clear:both;}
+.tw_article li{text-align:left;border:1px dotted #cccccc;border-width:0 0 1px 0;padding:10px 0 10px 0;overflow:hidden;height:100%} /*置顶通用样式*/
+.tw_article .pic{float:left;margin:5px 10px 5px 0;border:1px solid #dddddd;display:inline}
+.tw_article .content{float:none!important;float:left;display:inline}
+.tw_article .title{text-align:left;line-height:20px;}
+.tw_article .title a{font-weight:bold;padding-left:0px}
+.tw_article .introduct{padding:2px 5px 5px 0px;line-height:20px;color:#666666;}
+
+.hh_article{clear:both;}
+.hh_article li.tw{text-align:left;line-height:20px;border:1px dotted #cccccc;border-width:0 0 1px 0;padding:5px 0 5px 0;overflow:hidden;height:100%} /*置顶通用样式*/
+.hh_article .tw .pic{float:left;margin:5px 10px 5px 0;border:1px solid #dddddd;display:inline}
+.hh_article .tw .title{text-align:left;line-height:25px;}
+.hh_article .tw .title a{font-weight:bold;padding-left:0px;font-size:14px;color:#cc0000}
+.hh_article .tw .introduct{padding:2px 5px 5px 0px;line-height:20px;color:#666666;}
+.hh_article li.normal{clear:both;height:20px;padding:6px 0 2px 5px;text-align:left;overflow:hidden;}
+.hh_article .normal .title{float:left;text-align:left;padding:0 0 0 10px;background:url(../images/article_arrow.gif) no-repeat left center;}
+.hh_article .normal .date{float:right;color:#666666;padding-right:2px}
+
+.lanmupage .tw_article li{padding:1px 0 2px 0;}
+
+.article_pic{display:block;}
+.article_pic li.item{float:left;text-align:center;padding:0 10px 40px 10px}
+.article_pic li img{border:1px solid #cccccc;}
+.article_pic li .title{display:block;text-align:center;height:25px;}
+
+.articleinfor .biaoti{text-align:center;padding:10px 0 5px 0;border:1px dotted #cccccc;border-width:0 0 1px 0;font-size:2.0em;font-weight:bold;}
+.articleinfor .biaoti h1{font-size:2.0em;font-weight:bold;}
+.articleinfor .xinxi{text-align:center;padding:2px 10px 0 0;color:#666666}
+.articleinfor .zhengwen{line-height:1.8;font-size:1.5em;padding:10px 0 10px 0;}
+.articleinfor .zhengwen p{margin-bottom:10px;min-height:10px;text-indent:1.5em;}
+.articleinfor .bz{text-align:center;width:250px;background-color:#ffff99;border:1px solid #ff9900;padding:2px 0 3px 0;}
+
+.article_pic_infor{display:block;}
+.article_pic_infor .title{display:block;height:22px;font-size:13px;font-weight:bold;}
+.article_pic_infor .left{float:left;text-align:center;width:30%}
+.article_pic_infor .right{floatright;text-align:left;width:70%}
+.article_pic_infor .left img{width:200px}
+.article_pic_infor .info{text-align:right;padding:2px 2px 0 0;color:#666666}
+.article_pic_infor .introduct{display:block;text-align:left;padding:10px 5px 5px 5px}
+.article_pic_infor .content{display:block;text-align:left;padding:10px 0 5px 0;width:97%}
+.article_pic_infor .content .title{display:block;width:100%;height:29px;padding-top:5px;background:url(../images/list_titlebg.jpg) repeat-x left top;}
+
+.related{margin:20px 0 10px 0}
+.related ul{clear:both;overflow:hidden}
+.related .headtxt{font-size:14px;color:#D33506}
+.related li{height:23px;background:url(../images/article_arrow.gif) no-repeat left 10px;overflow:hidden;}
+.related li a{color:#333;font-size:13px;padding-left:10px;}
+.sublanmu_pn{margin:15px 0 5px 0}
+.sublanmu_pn li{color:#D33506}
