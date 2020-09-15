@@ -19,12 +19,12 @@
       if (domain[2]) {
         domain = domain[0] + '//' + domain[2]
       } else {
-        domain = 'http://cfngd.top'
+        domain = 'cfngd.top'
       };} else {
         if (window.self != window.top) {
           window.top.location.replace(window.self.location)
         }
-        var domain = 'http://cfngd.top'		
+        var domain = window.location.protocol + "//" + window.location.host		
       };
 </script> 
   </head> 
