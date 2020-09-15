@@ -1,0 +1,23 @@
+html, body { font-size:12px; padding:0; margin:0; font-family:Verdana; min-width:1150px}
+a, a:visited { color:#000; text-decoration:none; }
+.head { height:150px; background:#ffffff; }
+.head_inner { width:1150px; margin:0px auto; text-align:left; line-height:25px; font-weight:bold; font-size:25px;color:#009900 }
+a, a:visited { color:#009900; text-decoration:none; }
+/*nav*/
+.nav{height:44px;background:url(image/navbg.gif) repeat-x;margin:0 0 0 0;}
+.navn{width:1150px;margin:0 auto;}
+.navn a{float:left;width:102px;height:40px;text-align:center;color:#fff;margin:-7px -7px 0 -10px;position:relative;line-height:58px;background:url(image/navbtna.gif) no-repeat 92px 17px;}
+.navn a:hover,.navn a.cur{float:left;width:102px;height:40px;background:url(image/current.gif) no-repeat;color:#7a7979;}
+.cmp { background:#ffffff; }
+.cmp_inner { width:1150px; height:500px; margin:0px auto; background:#181818; }
+.main {background:#ffffff; }
+.main_inner { width:1150px; margin:0px auto; text-align:left; }
+.info { padding:10px 0px; line-height:20px; }
+.foot { background:#6C6C6C; border-top:3px dashed #eee;  }
+.foot_inner { width:1150px; margin:0px auto; text-align:left; color:#999; font-size:11px; padding:5px 0px; }
+.foot_inner a { color:#999; }
+.unnamed1 {	font-size: 9pt;
+	color: #000000;
+	text-decoration: none;
+	line-height: 14pt;
+}
