@@ -2,21 +2,21 @@
 if (!id && !xl) {} else {
   var url = "";
   if (xl == "1") {
-    url = "https://jx.618g.com/?url=" + id
-  } else if (xl == "2") {
-    url = "http://api.baiyug.vip/index.php?url=" + id
-  } else if (xl == "3") {
-    url = "https://okjx.cc/?url=" + id
-  } else if (xl == "4") {
-    url = "https://vip.bljiex.com/?v=" + id
-  } else if (xl == "5") {
-    url = "https://api.lhh.la/vip/?url=" + id
-  } else if (xl == "6") {
-    url = "https://jx.ivito.cn/?url=" + id
-  } else if (xl == "7") {
-    url = "http://jqaaa.com/jx.php?url=" + id
-  } else if (xl == "8") {
     url = "https://api.sigujx.com/?url=" + id
+  } else if (xl == "2") {
+    url = "https://jx.618g.com/?url=" + id
+  } else if (xl == "3") {
+    url = "http://api.baiyug.vip/index.php?url=" + id
+  } else if (xl == "4") {
+    url = "https://okjx.cc/?url=" + id
+  } else if (xl == "5") {
+    url = "https://vip.bljiex.com/?v=" + id
+  } else if (xl == "6") {
+    url = "https://api.lhh.la/vip/?url=" + id
+  } else if (xl == "7") {
+    url = "https://jx.ivito.cn/?url=" + id
+  } else if (xl == "8") {
+    url = "http://jqaaa.com/jx.php?url=" + id
   } else if (xl == "9") {
     url = "https://z1.m1907.cn/?jx=" + id
   };
