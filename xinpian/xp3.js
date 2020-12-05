@@ -12,7 +12,7 @@ if (!id && !xl) {} else {
   } else if (xl == "5") {
     url = "https://www.1717yun.com/jx/ty.php?url=" + id
   } else if (xl == "6") {
-    url = "http://www.freeget.org/jx.php?url=" + id
+    url = "https://www.1717yun.com/jiexi/?url=" + id
   } else if (xl == "7") {
     url = "https://jx.rdhk.net/?v=" + id
   } else if (xl == "8") {
