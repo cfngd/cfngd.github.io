@@ -1,1 +1,30 @@
-﻿eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)d[e(c)]=k[c]||e(c);k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1;};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p;}('s i$=["1p","1E","?","1F","1C","&","1D","=","1G","j","k","","1","y://1J.1K.w/?t=","2","x://u.1H.w/?t=","3","x://1I.1v.O/u.E?t=","4","x://G.1w.w/?t=","5","y://u.1t.w/?t=","6","x://u.1u.O/?t=","7","x://1x.w/u.E?t=","8","y://G.1A.1B/v/?t=","9","y://1y.1z.1W/?u=","1X","1U","1V","1Y",\'<T>\\2b\\2c\\1Z\\2a\\1N\\1O\\1L.1M <1P j="1S" 1T="R:1Q" 1R="\\1s\\1b\\1a\\1f\\1d \\Z\\U \\V\\Y \\W\\X \\1o\\1n"> <F 1r="1q()">\\1i\\1h\\1g\\1k</F></T> <S j="K"><l o="0">\\n\\p\\1l\\1m</l><l o="1">q\\n\\p-1</l><l o="2">q\\n\\p-2</l><l o="3">q\\n\\p-3</l><l o="4">q\\n\\p-4</l><l o="5">q\\n\\p-5</l><l o="6">q\\n\\p-6</l><l o="7">q\\n\\p-7</l><l o="8">q\\n\\p-8</l><l o="9">q\\n\\p-9</l></S>\',"1e",\'<a 1j="1c">q\\n\\p\',\'</a>\',"2G",\'<H 2J=\',\' R="Q%" 2M="Q%" 2L="N" 2K="0" 2F="0" 2z="0" 2I="N" 2x="2y" 2E="2B; 2C-2D" 2A></H>\',"?k=1&j=","?k=2&j=","?k=3&j=","?k=4&j=","?k=5&j=","?k=6&j=","?k=7&j=","?k=8&j=","?k=9&j=","2H","o"];L a(){s c,d,e;s f=M[i$[0]];s g=f[i$[1]](i$[2]);f=f[i$[3]](g+J);s h=f[i$[4]](i$[5]);2j(e=C;e<h[i$[6]];e++){g=h[e][i$[1]](i$[7]);m(g>C){c=h[e][i$[8]](C,g);d=h[e][i$[3]](g+J);I[c]=d}}};s b=2i a();j=b[i$[9]];k=b[i$[10]];m(!j&&!k){}r{s c=i$[11];m(k==i$[12]){c=i$[13]+j}r m(k==i$[14]){c=i$[15]+j}r m(k==i$[16]){c=i$[17]+j}r m(k==i$[18]){c=i$[19]+j}r m(k==i$[20]){c=i$[21]+j}r m(k==i$[22]){c=i$[23]+j}r m(k==i$[24]){c=i$[25]+j}r m(k==i$[26]){c=i$[27]+j}r m(k==i$[28]){c=i$[29]+j};D[i$[A]][i$[B]](i$[2m])[i$[z]]=i$[2l];D[i$[A]][i$[B]](i$[2e])[i$[z]]=i$[2d]+k+i$[2f];D[i$[A]][i$[B]](i$[2h])[i$[z]]=i$[2g]+c+i$[2t];s d=[i$[P]+j,i$[P]+j,i$[2s]+j,i$[2u]+j,i$[2w]+j,i$[2v]+j,i$[2o]+j,i$[2n]+j,i$[2p]+j,i$[2r]+j];K[i$[2q]]=L(){M[i$[0]]=d[I[i$[2k]]]}}',62,173,'||||||||||||||||||_|id|xl|option|if|u7ebf|value|u8def|VIP|else|var|url|jx||com|http|https|33|30|31|0x0|window|php|button|vip|iframe|this|0x1|sel|function|location|no|cc|41|100|width|select|strong|u827a|u4e50|u817e|u8baf|u89c6|u5947|||||||||||uff1a|u6301|lx8d|u9177|tishi|u4f18|u89e3|u7834|u3010VIP|class|u3011|u5207|u6362|u679c|u8292|href|GoTo|onclick|u652f|618g|du2|071811|jlsprh|jqaaa|z1|m1907|mpos|ren|split|length|indexOf|substr|substring|598110|jiexi|api|sigujx|u7ad9_XINPIAN|GQ|u53d1|u5e03|input|190px|placeholder|PageNo|style|getElementById|xianlu|cn|document|innerHTML|u65b0|||||||||||u7247|u9ad8|u6e05|36|35|37|39|38|new|for|51|34|32|47|46|48|50|49|42|40|43|45|44|allowtransparency|yes|marginheight|allowfullscreen|autoplay|encrypted|media|allow|marginwidth|player|onchange|scrolling|src|border|frameborder|height'.split('|'),0,{}))
+﻿eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)d[e(c)]=k[c]||e(c);k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1;};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p;}('6 7$=["\\G","\\x","\\y","\\9\\r","\\o\\q"];A a(){6 c,d,e;6 f=w["\\v\\i\\k\\m"];6 g=f["\\9\\j\\r\\k\\o\\t\\m"](7$[0]);f=f["\\5\\l\\n\\5\\8\\i"](g+s);6 h=f["\\5\\z\\q\\9\\8"](7$[1]);B(e=p;e<h["\\q\\k\\j\\u\\8\\v"];e++){g=h[e]["\\9\\j\\r\\k\\o\\t\\m"](7$[2]);C(g>p){c=h[e]["\\5\\l\\n\\5\\8\\i\\9\\j\\u"](p,g);d=h[e]["\\5\\l\\n\\5\\8\\i"](g+s);E[c]=d}}};6 b=H a();F=b[7$[3]];D=b[7$[4]];',44,44,'|||||x73|var|_|x74|x69|||||||||x72|x6e|x65|x75|x66|x62|x78|0x0|x6c|x64|0x1|x4f|x67|x68|location|x26|x3d|x70|function|for|if|xl|this|id|x3f|new'.split('|'),0,{}))
+if (!id && !xl) {} else {
+  var url = "";
+  if (xl == "1") {
+    url = "https://jx.idc126.net/jx/?url=" + id
+  } else if (xl == "2") {
+    url = "https://www.8090g.cn/jiexi/?url=" + id
+  } else if (xl == "3") {
+    url = "https://jx.618g.com/?url=" + id
+  } else if (xl == "4") {
+    url = "http://api.baiyug.vip/index.php?url=" + id
+  } else if (xl == "5") {
+    url = "https://www.1717yun.com/jx/ty.php?url=" + id
+  } else if (xl == "6") {
+    url = "http://www.freeget.org/jx.php?url=" + id
+  } else if (xl == "7") {
+    url = "https://jx.rdhk.net/?v=" + id
+  } else if (xl == "8") {
+    url = "https://www.ckmov.vip/api.php?url=" + id
+  } else if (xl == "9") {
+    url = "https://z1.m1907.cn/?jx=" + id
+  };
+  document.getElementById("xianlu").innerHTML = '<strong>高清新片发布站_XINPIAN.GQ <input id="PageNo" style="width:190px" placeholder="支持：优酷 奇艺 乐视 腾讯 芒果"> <button onclick="GoTo()">【VIP破解】</button></strong> <select id="sel"><option value="0">线路切换</option><option value="1">VIP线路-1</option><option value="2">VIP线路-2</option><option value="3">VIP线路-3</option><option value="4">VIP线路-4</option><option value="5">VIP线路-5</option><option value="6">VIP线路-6</option><option value="7">VIP线路-7</option><option value="8">VIP线路-8</option><option value="9">VIP线路-9</option></select>';
+  document.getElementById("tishi").innerHTML = '<a class="lx8d">VIP线路' + xl + '</a>';
+  document.getElementById("player").innerHTML = '<iframe src=' + url + ' width="100%" height="100%" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="yes" allow="autoplay; encrypted-media" allowfullscreen></iframe>';
+  var addrs = ["?xl=1&id=" + id, "?xl=1&id=" + id, "?xl=2&id=" + id, "?xl=3&id=" + id, "?xl=4&id=" + id, "?xl=5&id=" + id, "?xl=6&id=" + id, "?xl=7&id=" + id, "?xl=8&id=" + id, "?xl=9&id=" + id];
+  sel.onchange = function() {
+    location.href = addrs[this.value]
+  }
+}
