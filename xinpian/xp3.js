@@ -6,17 +6,17 @@ if (!id && !xl) {} else {
   } else if (xl == "2") {
     url = "http://api.baiyug.vip/index.php?url=" + id
   } else if (xl == "3") {
-    url = "https://jx.idc126.net/jx/?url=" + id
+    url = "https://okjx.cc/?url=" + id
   } else if (xl == "4") {
-    url = "https://www.8090g.cn/jiexi/?url=" + id
+    url = "https://vip.bljiex.com/?v=" + id
   } else if (xl == "5") {
-    url = "https://www.1717yun.com/jx/ty.php?url=" + id
+    url = "https://api.lhh.la/vip/?url=" + id
   } else if (xl == "6") {
-    url = "https://www.1717yun.com/jiexi/?url=" + id
+    url = "https://jx.ivito.cn/?url=" + id
   } else if (xl == "7") {
-    url = "https://jx.rdhk.net/?v=" + id
+    url = "http://jqaaa.com/jx.php?url=" + id
   } else if (xl == "8") {
-    url = "https://www.ckmov.vip/api.php?url=" + id
+    url = "https://api.sigujx.com/?url=" + id
   } else if (xl == "9") {
     url = "https://z1.m1907.cn/?jx=" + id
   };
