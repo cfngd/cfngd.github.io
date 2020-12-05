@@ -2,13 +2,13 @@
 if (!id && !xl) {} else {
   var url = "";
   if (xl == "1") {
-    url = "https://jx.idc126.net/jx/?url=" + id
-  } else if (xl == "2") {
-    url = "https://www.8090g.cn/jiexi/?url=" + id
-  } else if (xl == "3") {
     url = "https://jx.618g.com/?url=" + id
-  } else if (xl == "4") {
+  } else if (xl == "2") {
     url = "http://api.baiyug.vip/index.php?url=" + id
+  } else if (xl == "3") {
+    url = "https://jx.idc126.net/jx/?url=" + id
+  } else if (xl == "4") {
+    url = "https://www.8090g.cn/jiexi/?url=" + id
   } else if (xl == "5") {
     url = "https://www.1717yun.com/jx/ty.php?url=" + id
   } else if (xl == "6") {
