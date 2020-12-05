@@ -4,13 +4,13 @@ if (!id && !xl) {} else {
   if (xl == "1") {
     url = "https://api.sigujx.com/?url=" + id
   } else if (xl == "2") {
-    url = "https://jx.618g.com/?url=" + id
-  } else if (xl == "3") {
-    url = "http://api.baiyug.vip/index.php?url=" + id
-  } else if (xl == "4") {
     url = "https://okjx.cc/?url=" + id
-  } else if (xl == "5") {
+  } else if (xl == "3") {
     url = "https://vip.bljiex.com/?v=" + id
+  } else if (xl == "4") {
+    url = "https://jx.618g.com/?url=" + id
+  } else if (xl == "5") {
+    url = "http://api.baiyug.vip/index.php?url=" + id
   } else if (xl == "6") {
     url = "https://api.lhh.la/vip/?url=" + id
   } else if (xl == "7") {
